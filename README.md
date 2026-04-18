@@ -1,3 +1,5 @@
+[![Download Latest Release](https://img.shields.io/github/v/release/UniFy-Endpoint/Install-Printer?label=Download%20Latest&style=for-the-badge&logo=github)](https://github.com/UniFy-Endpoint/Install-Printer/releases/latest)
+
 # Install Printer via Microsoft Intune
 
 Deploy complete network printers to Windows endpoints using Microsoft Intune Win32 app deployment. The scripts install the printer driver, create a TCP/IP port, create the printer queue, and optionally configure printer settings (paper size, duplex, color, collation) -- all automated and brand/model agnostic.
